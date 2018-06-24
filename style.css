@@ -9,12 +9,11 @@ body, html{
 
 img {
   width: auto;
-  height: 100%;
+  height: 80%;
 }
 
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
 }
