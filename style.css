@@ -12,6 +12,11 @@ img {
   height: 80%;
 }
 
+h1, h2{
+	text-align: center;
+	color: white;
+}
+
 .center {
   display: block;
   margin-left: auto;
